@@ -9,35 +9,35 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 14px 0;
 }
 
 .cabecalho-imagem{
-    width: 15%;
+    width: 25%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
+    margin: 0 46px;
     font-size: 20px;
 }
 
-.escola-imagem{
+.minecraft-imagem{
     width: 25%;
 }
 
-.escola{
+.minecraft{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 524px 0;
 }
 
-.escola-div-conteudo{
-    width: 35%;
+.minecraft-div-conteudo{
+    width: 15%;
 }
-.escola-titulo{
+.minecraft-titulo{
     padding: 24px 0;
 }
