@@ -14,12 +14,17 @@
 
 .cabecalho-imagem{
     width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 650;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
-    font-size: 20px;
+    margin: 100 516px;
+    padding: 4px 100;
+    font-size: 55px;
 }
 
 .minecraft-imagem{
@@ -37,8 +42,11 @@
 
 .minecraft-div-conteudo{
     width: 15%;
+    display: inline-block;
+    margin: 100 516px;
+    font-size: 55px
 }
 .minecraft-titulo{
     padding: 104px 500;
-    align-items: normal;
+    align-items: center;
 }
